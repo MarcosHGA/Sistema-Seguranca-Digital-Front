@@ -14,7 +14,7 @@ function ResultsTable(props) {
   const currentItem = data.slice(indexOfFirstItem, indexOfLastItem);
 
   const pageNumbers = [];
-  for (let i = 1; i <= Math.ceil(data.length / 6); i++) {
+  for (let i = 1; i <= Math.ceil(data.length / 10); i++) {
     pageNumbers.push(i);
   }
 
