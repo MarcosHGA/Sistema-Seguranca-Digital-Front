@@ -1,0 +1,13 @@
+#login-form {
+  width: 400px !important;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+#login-form a {
+  color: #fff !important;
+}
+
+#login-form a:hover {
+  text-decoration: none;
+}

@@ -1,0 +1,14 @@
+.header-form,
+ResultsTable {
+  width: 800px;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttons-container > div {
+  display: flex;
+  justify-content: flex-end;
+}

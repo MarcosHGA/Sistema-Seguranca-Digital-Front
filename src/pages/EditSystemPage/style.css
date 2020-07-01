@@ -1,0 +1,3 @@
+.system-control .form-control:disabled {
+  background-color: #ddd !important;
+}
